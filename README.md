@@ -32,8 +32,7 @@ while True:
     print("Server > ",s.recv(1024).decode())
 ```
 ## OUPUT
-<img width="1202" height="573" alt="Screenshot 2026-05-15 153955" src="https://github.com/user-attachments/assets/ec119471-a07a-435d-bf1f-f64557b734b4" />
-<img width="1165" height="636" alt="Screenshot 2026-05-15 154013" src="https://github.com/user-attachments/assets/92edcc63-8886-4fd7-be0a-f513f95fa2cf" />
+<img width="1613" height="902" alt="image" src="https://github.com/user-attachments/assets/0921af42-dd06-4603-9e55-cab3a7d7970b" />
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
 created and executed.
